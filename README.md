@@ -1,1 +1,1 @@
-# Python_basic_assignmeny_6
+# Python_basic_assignment_6
